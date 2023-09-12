@@ -1,0 +1,41 @@
+_repo: Aseseppa-b-Kajastuksia-uskonpuhdistuksen-ajalta_71579
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Koskimies, Kaarlo
+    birthdate: 1851
+    deathdate: 1918
+    gutenberg_agent_id: '46763'
+    url: http://www.gutenberg.org/2009/agents/46763
+creator:
+  author:
+    agent_name: Rydberg, Viktor
+    aliases:
+    - Rydberg, Abraham Viktor
+    - Rydberg, Victor
+    - Rydberg, V. (Viktor)
+    birthdate: 1828
+    deathdate: 1895
+    gutenberg_agent_id: '3156'
+    url: http://www.gutenberg.org/2009/agents/3156
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Viktor_Rydberg
+    - https://en.wikipedia.org/wiki/Viktor_Rydberg
+    - https://sv.wikipedia.org/wiki/Viktor_Rydberg
+description: ''
+gutenberg_issued: '2023-09-06'
+identifiers:
+  gutenberg: '71579'
+language: fi
+pgterms:marc905: 20230827051001rydberg
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aseseppä : $b Kajastuksia uskonpuhdistuksen ajalta'
+url: http://www.gutenberg.org/ebooks/71579
