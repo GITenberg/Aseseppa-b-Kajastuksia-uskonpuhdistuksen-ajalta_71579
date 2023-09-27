@@ -7,6 +7,9 @@ contributor:
     deathdate: 1918
     gutenberg_agent_id: '46763'
     url: http://www.gutenberg.org/2009/agents/46763
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rydberg, Viktor
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Viktor_Rydberg
     - https://sv.wikipedia.org/wiki/Viktor_Rydberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71579#Aseseppa-b-Kajastuksia-uskonpuhdistuksen-ajalta
 gutenberg_issued: '2023-09-06'
 identifiers:
   gutenberg: '71579'
